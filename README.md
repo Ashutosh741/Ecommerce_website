@@ -15,9 +15,21 @@ https://reactjs-ecommerce-app.vercel.app/
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
+![Home](https://github.com/Ashutosh741/Ecommerce_website/blob/main/screenshots/Home.png?raw=true)
 
+![Products](https://github.com/Ashutosh741/Ecommerce_website/blob/main/screenshots/products.png?raw=true)
 
+![About us](https://github.com/Ashutosh741/Ecommerce_website/blob/main/screenshots/About%20us.png?raw=true)
+
+![Contact us](https://github.com/Ashutosh741/Ecommerce_website/blob/main/screenshots/Contact%20us.png?raw=true)
+
+![Login](https://github.com/Ashutosh741/Ecommerce_website/blob/main/screenshots/Login.png?raw=true)
+
+![Register](https://github.com/Ashutosh741/Ecommerce_website/blob/main/screenshots/Register.png?raw=true)
+
+![Cart](https://github.com/Ashutosh741/Ecommerce_website/blob/main/screenshots/Cart.png?raw=true)
+
+![Checkout](https://github.com/Ashutosh741/Ecommerce_website/blob/main/screenshots/Checkout.png?raw=true)
 
 ## Run Locally
 
